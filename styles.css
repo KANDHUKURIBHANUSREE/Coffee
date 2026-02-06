@@ -6,6 +6,9 @@ body {
     color: #fff;
     font-family: Arial, sans-serif;
 }
+html {
+    scroll-behavior: smooth;
+  }
 
 .header {
     display: flex;
@@ -511,5 +514,6 @@ blockquote {
     .footer-about, .footer-links, .footer-contact {
         text-align: center;
     }
+
 
 
